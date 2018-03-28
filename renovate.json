@@ -4,7 +4,7 @@
   ],
   "packageRules": [
     {
-      "extends": ["group:angular-monorepo"],
+      "extends": ["monorepo:angular"],
       "enabled": false
     }
   ]
