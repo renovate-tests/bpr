@@ -4,7 +4,6 @@
   ],
   "packageRules": [
     {
-      "excludePackageNames": ["foo"],
       "enabled": false
     }
   ]
